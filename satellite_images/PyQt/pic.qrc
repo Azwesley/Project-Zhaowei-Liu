@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="satellite_image">
+    <file>WechatIMG104.png</file>
+    <file>WechatIMG106.png</file>
+    <file>WechatIMG105.png</file>
+    <file>1131665048665.png</file>
+  </qresource>
+</RCC>
